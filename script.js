@@ -15,9 +15,9 @@
             if (event.metaKey || event.ctrlKey) {
                 const textbox = document.createElement('textarea');
                 const button = document.createElement('button');
-                let userInput = prompt("What do you want your delay to be in milliseconds? if no answer is inputted, will default to 0.1 second");
+                let userInput = prompt("What do you want your delay between characters to be in milliseconds? if no answer is inputted, will default to 0.1 second");
                 let delay23 = userInput ? parseFloat(userInput) : 100;
-                let userInput2 = prompt("What do you want your break to be? if no answer is inputted, will default to 14 seconds");
+                let userInput2 = prompt("What do you want your random break to be? if no answer is inputted, will default to 14 seconds");
                 let break23 = userInput2 ? parseFloat(userInput2) : 14000;
                 let textToInsert = ``;
 
