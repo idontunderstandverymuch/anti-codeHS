@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2024-08-05
 // @description  i hate codehs
-// @author       eshaaneshaan
+// @author       arnaclez
 // @match        https://codehs.com/*
 // @grant        none
 // ==/UserScript==
