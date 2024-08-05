@@ -10,6 +10,6 @@ to use:
 - download firefox from https://drive.google.com/file/d/1blEKbEn4iNLqp9c57dub0SyZIUexBFgB/view?usp=drive_link (or the official firefox download website if your not on the school wifi)
 - download tampermonkey from https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
 - paste the script.js code into a new tampemonkey script (delete the template code)
-- keep the script disabled by default, but if you need to use it, enable it and refresh your codehs page
-- after enabling, a textbox will appear at the bottom of the screen. paste the code into the textbox and click the enter button
-- the script will work after clicking enter.
+- press ctrl+\ or cmd+\ and two prompts will pop up. i leave them blank, but you can customize based on your use case
+- a textbox will appear at the bottom of the screen. paste the code into the textbox and click the enter button
+- the script will work after clicking the enter button
