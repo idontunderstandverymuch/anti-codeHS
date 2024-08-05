@@ -1,4 +1,4 @@
-# anti-codehs
+# anti-codeHS
 
 in 9th grade, codehs had this really annoying feature where the website saved a snapshot of your code every second so the teacher could see if you copy pasted or anything like that.    
      
