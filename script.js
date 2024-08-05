@@ -86,7 +86,7 @@
         }
 
 
-        insertTextWithDelay(textToInsert, 100, 0.10, 14000);
+        insertTextWithDelay(textToInsert, 100, 0.13, 14000);
     }
 
 })();
