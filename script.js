@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Custom Text Replacement
+// @name         anti-codehs
 // @namespace    http://tampermonkey.net/
 // @version      2024-08-05
-// @description  Add a textbox and a button to replace text in a textarea, then hide them after use.
-// @author       You
+// @description  i hate codehs
+// @author       eshaaneshaan
 // @match        https://codehs.com/*
 // @grant        none
 // ==/UserScript==
