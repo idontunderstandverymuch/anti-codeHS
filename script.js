@@ -15,7 +15,7 @@
     const button = document.createElement('button');
     let textToInsert = ``;
 
-textbox.style.position = 'fixed';
+    textbox.style.position = 'fixed';
     textbox.style.bottom = '50px';
     textbox.style.left = '50%';
     textbox.style.transform = 'translateX(-50%)';
