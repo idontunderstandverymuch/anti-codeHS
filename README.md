@@ -6,7 +6,7 @@ so i made this code in 9th grade and it emulates human behaviour while typing co
      
 also if ur teacher turns off copy and pasting entirely in ur course, then this will also bypass that.
 
-to use:     
+to use:
 - download firefox from https://drive.google.com/file/d/1blEKbEn4iNLqp9c57dub0SyZIUexBFgB/view?usp=drive_link (or the official firefox download website if your not on the school wifi)
 - download tampermonkey from https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
 - paste the script.js code into a new tampemonkey script (delete the template code)
